@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-SimpleEQ",
+      "appliesTo": "SimpleEQ.jucer",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-SimpleEQ",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
